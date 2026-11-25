@@ -1,5 +1,7 @@
 # envguard
 
+[![CI](https://github.com/ryancooper312/envguard/actions/workflows/ci.yml/badge.svg)](https://github.com/ryancooper312/envguard/actions/workflows/ci.yml)
+
 Zero-dependency CLI tool to keep `.env` and `.env.example` in sync, enforce typed environment variable schemas via inline comments, and catch accidental secret leaks before they reach version control.
 
 ## Why envguard?
